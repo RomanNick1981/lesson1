@@ -1,0 +1,15 @@
+/Users/Roman/C# Обучение/lesson1/bin/Debug/net6.0/lesson1
+/Users/Roman/C# Обучение/lesson1/bin/Debug/net6.0/lesson1.deps.json
+/Users/Roman/C# Обучение/lesson1/bin/Debug/net6.0/lesson1.runtimeconfig.json
+/Users/Roman/C# Обучение/lesson1/bin/Debug/net6.0/lesson1.dll
+/Users/Roman/C# Обучение/lesson1/bin/Debug/net6.0/lesson1.pdb
+/Users/Roman/C# Обучение/lesson1/obj/Debug/net6.0/lesson1.csproj.AssemblyReference.cache
+/Users/Roman/C# Обучение/lesson1/obj/Debug/net6.0/lesson1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Roman/C# Обучение/lesson1/obj/Debug/net6.0/lesson1.AssemblyInfoInputs.cache
+/Users/Roman/C# Обучение/lesson1/obj/Debug/net6.0/lesson1.AssemblyInfo.cs
+/Users/Roman/C# Обучение/lesson1/obj/Debug/net6.0/lesson1.csproj.CoreCompileInputs.cache
+/Users/Roman/C# Обучение/lesson1/obj/Debug/net6.0/lesson1.dll
+/Users/Roman/C# Обучение/lesson1/obj/Debug/net6.0/refint/lesson1.dll
+/Users/Roman/C# Обучение/lesson1/obj/Debug/net6.0/lesson1.pdb
+/Users/Roman/C# Обучение/lesson1/obj/Debug/net6.0/lesson1.genruntimeconfig.cache
+/Users/Roman/C# Обучение/lesson1/obj/Debug/net6.0/ref/lesson1.dll
